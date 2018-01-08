@@ -13,9 +13,11 @@ public class IntervalSchedulingAlgorithm {
 		// as possible so that he can give on rent again
 
 		// In above data 0,1,3,4 Index is the answer
-
+		// Time complexity = Time for Sorting + Time for Scannning  = O(nlogn +n )~ O(nlogn)
+		
 		intervalSchedulingCarForRentingToMaxPeople(startTime, endTime, n);
-		;
+		
+		
 
 	}
 
