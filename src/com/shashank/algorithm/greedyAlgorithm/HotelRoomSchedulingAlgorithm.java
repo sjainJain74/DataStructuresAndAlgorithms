@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 class Room {
-
 	Integer roomNumber;
 	int startTime;
 	int endTime;
